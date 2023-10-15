@@ -1,0 +1,10 @@
+Examples of poorly designed inheritance:
+
+1. Inheritance is used to share behaviour without specializing.
+2. A method in the superclass is overwritten with a different behaviour by a subclass.
+3. A subclass inherits methods from the superclass and adds extra, new, unrelated functionality.
+
+Example of good Inheritance:
+
+The subclasses inherit methods from the superclass and have their own specific, related methods.
+(Means, share behaviour with specialization)
